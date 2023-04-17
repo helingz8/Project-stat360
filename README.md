@@ -1,6 +1,6 @@
 # Project-stat360
 
-Heling Zhang      301355654
+Heling Zhang  301355654
 Wenxuan Zheng 301355825
 
 File:
